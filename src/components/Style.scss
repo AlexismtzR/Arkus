@@ -1,0 +1,40 @@
+img {
+    display: flex;
+    max-width: 300%;
+    width: 100%;
+    cursor: pointer;
+  }
+  
+  .flex {
+    display: flex;
+    font-family: sans-serif;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 20px;
+  
+    > div {
+      margin: 0 1rem 2rem 1rem;
+    }
+  }
+  
+  .container {
+    background-color: #DCDCDC;
+    max-width: 300px;
+    width: 200px;
+  }
+  
+  .container2 {
+    background-color: #DCDCDC;
+    max-width: 300px;
+    width: 250px;
+  }
+  
+  .content {
+    margin-bottom: 10px;
+    margin-left: 10px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
